@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/src/.vs/WebSocketDemo
+/src/WebSocketDemo/obj
+/src/WebSocketDemo/bin/Debug/netcoreapp3.1
